@@ -60,11 +60,3 @@ uvicorn main:app --reload
 # 브라우저에서 API 문서 보기
 http://127.0.0.1:8000/docs
 
-
-##앞으로 해보고 싶은 것
-JWT 토큰을 Refresh Token까지 분리해서 구현해보기
-
-프론트엔드랑 연동해서 간단한 로그인 UI 만들기
-
-Docker로 배포까지 해보기
-
